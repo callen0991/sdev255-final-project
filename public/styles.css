@@ -1,5 +1,6 @@
 /* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24+Charted&family=Slabo+27px&display=swap');
+
 
 body{
     margin: 20px 40px;
@@ -12,8 +13,8 @@ body{
 h1, h2, h3, h4, ul, li, a, p, input, label, button, div, footer{
     margin: 0;
     padding: 0;
-    font-family: 'Quicksand', sans-serif;
-    color: #4CAF50;
+    font-family: 'Slabo 27px', sans-serif;
+    color: #DEB887;
 }
 ul{
     list-style-type: none;
@@ -42,7 +43,7 @@ nav li{
 }
 nav li a{
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 0.8em;
     display: block;
     padding: 10px 16px;
